@@ -1,0 +1,15 @@
+/* Fondo de la página */
+body {
+  background-color: rgb(236, 178, 200);
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.marco {
+  background-color: white; /* Fondo blanco dentro del marco */
+  padding: 10px; /* Espacio interno (entre borde y texto) */
+  box-shadow: 0 0 10px rgba(0,0,0,0.2); /* Sombra alrededor del marco */
+  border-radius: 8px; /* Bordes suavemente redondeados */
+  text-align: left; /* Alinea el texto a la izquierda */
+}
